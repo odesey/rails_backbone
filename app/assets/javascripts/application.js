@@ -11,5 +11,8 @@
 // GO AFTER THE REQUIRES BELOW.
 //
 //= require jquery
+//= require jquery-1.9.1.min
+//= require underscore-min
 //= require jquery_ujs
+//= require bootstrap
 //= require_tree .
